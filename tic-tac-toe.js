@@ -24,7 +24,7 @@ function render(){
 
  console.log(`It is player ${turn}'s turn`)
 
- // Rendering the board
+// Rendering the board
 
 renderBoard()
 }
